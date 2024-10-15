@@ -25,6 +25,7 @@ NOTA: En entornos Linux (y/o Mac OS) es necesario instalar `sudo apt-get install
 pip install -r requirements.txt  
 python tortuga.py # nivel básico
 python movimiento.py # nivel medio
+python carrera.py # nivel avanzado
 ```
 
 #### Comenzar
