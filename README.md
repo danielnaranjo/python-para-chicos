@@ -14,13 +14,17 @@ En mi caso, mi primera experiencia con programación fue con Turtle por alla en 
 [Presentación](https://docs.google.com/presentation/d/1zhYsNA9OvL43M1j1etL2Jyy19g-EAHoS4WAeeBYb300/edit?usp=sharing) de Google Slides.  
 
 #### Requisitos
-- Python 3.x (incluye PIP)  
-- IDE (ej. Visual Code, Notepad)  
+- Python 3.x (Mac OS incluye Python 2.9)
+- PIP (ejecutar: `pip install -r requirements.txt`)
+- Un editor de codigo y/o texto (ej. Visual Code, Notepad)  
+
+NOTA: En entornos Linux (y/o Mac OS) es necesario instalar `sudo apt-get install python3-tk`
 
 #### Uso
 ```
 pip install -r requirements.txt  
-python demo.py  
+python tortuga.py # nivel básico
+python movimiento.py # nivel medio
 ```
 
 #### Comenzar
